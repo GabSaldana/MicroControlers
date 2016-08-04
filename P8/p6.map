@@ -1,0 +1,17 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+tabla7s                                                           0x00E0      10
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+mili                                                              R4           1
+deci                                                              R5           1
+seg                                                               R6           1
+btna                                                              R2.0      1bit
+btnp                                                              R2.1      1bit

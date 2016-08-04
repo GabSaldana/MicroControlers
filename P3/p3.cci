@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:4857597A
+NODE:I LEVEL:0 LINE:1 "c:\cvavreval\inc\mega8535.h"
+NODE:V LEVEL:0 LINE:2 "variable -> R4"
+NODE:V LEVEL:0 LINE:3 "variable1 -> R5"
+NODE:C LEVEL:0 LINE:4 "tabla7s -> RAM:????"
+NODE:F LEVEL:0 LINE:6 "main(void)"

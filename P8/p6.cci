@@ -1,0 +1,13 @@
+VERSION:3 SOURCE_TIMESTAMP:486856DC
+NODE:I LEVEL:0 LINE:3 "c:\cvavreval\inc\90s8535.h"
+NODE:I LEVEL:0 LINE:4 "c:\cvavreval\inc\delay.h"
+NODE:C LEVEL:0 LINE:5 "tabla7s -> RAM:????"
+NODE:M LEVEL:0 LINE:6 "start"
+NODE:M LEVEL:0 LINE:7 "stop"
+NODE:M LEVEL:0 LINE:8 "reset"
+NODE:V LEVEL:0 LINE:10 "mili -> R4"
+NODE:V LEVEL:0 LINE:11 "deci -> R5"
+NODE:V LEVEL:0 LINE:12 "seg -> R6"
+NODE:V LEVEL:0 LINE:14 "btna -> R2.0"
+NODE:V LEVEL:0 LINE:15 "btnp -> R2.1"
+NODE:F LEVEL:0 LINE:17 "main(void)"

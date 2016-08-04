@@ -1,0 +1,15 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+ESTADO_LED1                                                       R2.0      1bit
+ESTADO_LED2                                                       R2.1      1bit
+ESTADO_LED3                                                       R2.2      1bit
+ESTADO_LED4                                                       R2.3      1bit
